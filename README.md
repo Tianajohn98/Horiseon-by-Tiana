@@ -1,1 +1,2 @@
 # Horiseon-by-Tiana
+The purpose of this project was to take already developed code and "refractor" it in a way that is easy to read and understand. As well as enhance the functionality of the webpage to make it accessible. 
