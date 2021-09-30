@@ -18,11 +18,9 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-header h1 .seo {
     color: #d9dcd6;
 }
+
 
 header nav {
     padding-top: 15px;
@@ -41,7 +39,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
+header a {
     color: #ffffff;
     text-decoration: none;
 }
