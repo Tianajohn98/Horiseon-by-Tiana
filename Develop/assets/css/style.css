@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* applying styles to <header> */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,11 +45,13 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+/*apply styles to p */
+
 
 p {
     font-size: 16px;
 }
-
+/* apply styles to hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
 
 
 
+/* apply styles to content section */
 
 .contents {
     width: 75%;
@@ -97,7 +102,7 @@ p {
     margin-left: 25px;
 }
 
-
+/* apply styles to benefit section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -130,7 +135,7 @@ p {
 
 
 
-
+/* apply styles to footer*/
 footer {
     padding: 30px;
     clear: both;
