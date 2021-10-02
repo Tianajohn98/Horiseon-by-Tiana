@@ -8,10 +8,11 @@ This webpage is simple and easy to navigate.
 clicking the "Horiseon" header title will instantly refresh the page without having to reload the page manually.
 Clicking any of the navigation links will bring you directly to the section of the corresponding heading.
 
-
+### Links
 
 ![Website screenshot](/assets/images/Horiseonwebpage.png)
 
+live website   https://tianajohn98.github.io/Horiseon-by-Tiana/ 
 
-### Credits
+
 
