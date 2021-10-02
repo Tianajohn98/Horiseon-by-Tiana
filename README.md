@@ -5,7 +5,8 @@ The purpose of this project was to take already developed code and "refractor" i
 ## How to 
 
 This webpage is simple and easy to navigate. 
-clicking the "Horiseon" header title will instanly refresh the page without having to reload the page manually.
+clicking the "Horiseon" header title will instantly refresh the page without having to reload the page manually.
 Clicking any of the navigation links will bring you directly to the section of the corresponding heading.
 
-   
+### Credits
+
