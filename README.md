@@ -8,5 +8,10 @@ This webpage is simple and easy to navigate.
 clicking the "Horiseon" header title will instantly refresh the page without having to reload the page manually.
 Clicking any of the navigation links will bring you directly to the section of the corresponding heading.
 
+
+
+![Website screenshot](/assets/images/Horiseonwebpage.png)
+
+
 ### Credits
 
